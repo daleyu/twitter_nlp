@@ -3,3 +3,5 @@ include/
 share/
 lib/
 training.1600000.processed.noemoticon.csv
+.DS_Store
+
